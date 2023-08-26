@@ -4,3 +4,7 @@ h1{
     text-decoration: underline;
     font-size: 50px;
 }
+table{
+    border: 3px black solid;
+    text-transform: uppercase;
+}
